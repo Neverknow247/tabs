@@ -1,0 +1,25 @@
+.body{
+    width: 960px;
+    margin: 0px auto;
+    padding: 50px;
+}
+.header{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    color: black;
+    background-color: gray;
+    border: none;
+    outline: none;
+    width: 150px;
+    height: 50px;
+}
+.btnSelected{
+    color: wheat;
+    background-color: darkslategray;
+    border: none;
+    outline: none;
+    width: 150px;
+    height: 50px;
+}
